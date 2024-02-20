@@ -1,0 +1,357 @@
+Śluzy:
+- właściwości fizykochemiczne
+	- śluzy obojętne - cukry proste
+		- heksozy
+		- pentozy
+		- alkohole cukrowe i ich etery
+	- śluzy kwaśne - cukry proste i kwasy uronowe
+		- glukuronowy
+		- galakturonowy
+		- reszty siarczanowe lub fosforanowe
+	- z wodą tworzą roztwory:
+		- ciągliwe
+		- koloidalne
+		- silnie załamujące światło
+		- mają zdolność pęcznienia i tworzenia żeli
+		- dobre emulgatory emulsji
+- surowce roślinne dostarczające śluzów i uporządkowanie ich według ilości zawartych śluzów umiejscowienie śluzów w nasionach roślin
+	- Nasienie babki jajowatej - *Plantaginis ovatae semen* 20-25%
+	- Korzeń prawoślazu - *Althaeae radix* 10%
+	- Liść podbiału - *Farfarae folium* 6,5%
+	- Siemię lniane - *Linum usitassimum* 6%
+	- Liść babki lancetowatej - *Plantaginis lanceolatae folium* 8%
+	- Nasienie kozieradki - *Trigonellae foenigraei semen* 20-30%
+	- Babka płesznik - *Plantago psylillum* 10-15%
+	- Kwiat dziewanny - *Verbasci flos* 3%
+	- Kwiat malwy czarnej *Malvae arborae flos* 12%
+- nazwy surowców roślinnych dostarczających śluzy
+- działanie
+	- zmiękczające
+	- odświeżające
+	- łagodzące podrażnienia wywołane mrozem, wiatrem
+	- łagodzące świąd
+	- leczą lekkie oparzenia
+	- i wypryski alergiczne
+- i zastosowanie w kosmetyce
+	- emulsje
+	- kremy nawilżające
+	- kremy przeciwzmarszczkowe
+	- kremy pielęgnacyjne
+	- kremy hipoalergiczne
+- wykorzystanie śluzów:
+	- kąpiele lecznicze - łagodzą podrażnienia skóry
+	- okłady śluzowe - zmiękczają naskórek, ułatwiają pękanie wrzodów, czyraków
+	- maseczki na twarz - do skóry zmęczonej, spierzchniętej, podrażnionej
+	- dodanie od kosmetyków typu żeli - poprawiają ich konsystencję
+	- tworzenie kremów beztłuszczowych
+	- przygotowanie naturalnych kosmetyków domowych
+- SUROWCE
+	- nasiona pigwy
+		- skład:
+			- polisacharydy: arabinoza, ksyloza
+			- fitosterole
+			- fenolokwasy: kawowy, protokatechowy, galusowy, p-kumarowy, syryngowy, wanilinowy
+			- kwasy dominujące: palmitynowy, oleinowy, jabłkowy
+		- działanie:
+			- przemywanie twarzy podrażnionej
+			- oczyszczanie skóry trądzikowej
+			- zmiękczanie skóry w stanach zapalnych
+			- pielęgnacja brodawek podczas karmienia piersią
+			- odbijanie promieni UVA i UVB
+	- babka lancetowata
+		- skład
+			- glikozyd irydoidowy - aukubina, katalpol
+			- glikozydy fenetylowe - werbaskozydy, plantamajozydy
+			- fenolokwasy
+			- garbniki
+			- flawonoidy
+			- związki krzemowe
+		- wykorzystanie
+			- mieszanki
+			- soki
+			- syropy przeciwkaszlowe
+			- dodatki do sałatek
+		- działanie
+			- osłaniające
+			- powlekające na skórę i błony śluzowe
+	- babka zwyczajna
+		- skład
+			- kwasy oleinowe, salicylowy, cytryowy
+			- witaminy C, B1, B2
+			- garbniki, proteiny
+			- błonnik
+		- działanie
+			- nawilżające
+			- przyspieszające proces gojenia
+			- przeciwzapalne
+			- ochronne przed uszkodzeniami i infekcjami
+			- immunomodulacyjne
+			- alantoina - właściwości gojące
+	- dziewanna
+		- skład
+			- śluz (do3%)
+			- cukier inwertowany
+			- sponozydy triterpenowe - werbaskosaponiny
+			- glikozydy irydoidowe
+				- aukubina
+				- ksylozydaukubiny
+				- katapol
+			- flawonoidy (heserydyna, rutozyd, diosmina)
+			- fenyloetanidy (werbaaskozyd)
+			- karotenoidy
+			- olejek eteryczny
+		- stosowanie:
+			- stany zapalne skóry
+			- wysypki alergiczne (atopowe lub kontaktowe)
+			- zakażenia bakteryjne skróry
+	- prawoślaz lekarski
+		- skład (korzeń)
+			- kwas galakturonowy
+			- galaktoza
+			- glukozaa
+			- mannoza
+			- arabinoza
+			- ramnoza
+			- pektyny
+			- sacharoza
+			- skrobia
+			- asparagina
+			- betaina
+		- skład (liść)
+			- flawonoidy - tilirozyd
+			- fenolokwasy
+			- kumaryny - skopoletyna
+			- związki mineralne
+		- zastosowanie:
+			- preparaty do zmywania delikatnej skóry
+			- kremy i emulsje
+			- śluzy prawoślazu - wybielająco na skórę
+			- macerat dodany do kąpieli łagodzi objawy:
+				- egzemy
+				- uczulenia
+				- oparzenia słonecznego
+		- działanie:
+			- osłaniającec
+			- powlekające
+			- przeciwzapalne na skórę i błony śluzowe
+			- lek przeciwkaszlowy
+			- osładaniąco w stanach zapalnych gardła, krtani i przewodu pokarmowego
+			- okłady rozmiękczające
+
+Saponiny:
+- podział
+	- triterpenowe
+	- steroidowe (sterydowe)
+- właściwości
+	- triterpenowe
+		- obniżają napięcie powierzchniowe roztworów wodnych (powodują pienienie)
+		- mają zdolność hemolizowania erytrocytów
+		- wiązania cholesterolu występującego w płynach ustrojowych i błonach komórkowych
+		- dobre właściwości emulgujące
+		- pozwalają związać z podłożem tłustym w:
+			- maściach, kremach, balsamach, innych formach emulsji typu O/W
+		- ułatwiają przechodzenie przez skórę i błony ślluzowe niektórych trudno rozpuszczalnych związków np. witamin
+		- działanie:
+			- przeciwbakteryjne
+			- przeciwgrzybiczne
+			- przeciwpierwotniakowe
+			- przeciwwirusowe
+	- sterydowe
+		- właściwości bioaktywne wspierające pracę organizmu
+		- modulowanie układu hormonalnego
+		- przyczyniają się do:
+			- wzrostu poziomu testosteronu
+			- ograniczenia właściwości estrogenów
+		- właściwości moczopędne
+		- wspierają procesy trawienne
+			- detoksykacyjne
+			- antybakteryjne
+- przykłady rodzin zawierających saponiny
+	- pierwiosnkowate *Primulaceae*
+	- goździkowate *Coryophylaceae*
+	- kasztanowcowate *Hippocastanaceae*
+	- araliowate *Araliaceae*
+	- krzyżownicowate *Polygalaceae*
+- surowce roślinne dostarczające saponin i ich charakterystyka
+	- pierwiosnek lekarski *Primula officinalis* Pierwiosnkowate *Primulaceae* (korzeń, kwiat)
+		- korzeń:
+			- skład:
+				- protopriulagenina A
+				- dehydroprimulagenina A
+				- mieszanina saponin triterpenowych
+				- kwas prymulowy A
+				- glikozydy fenolowe
+					- prymwertyna
+					- prymulaweryna
+				- garbniki
+				- cukry
+		- kwiat
+			- skład
+				- flawonoidy
+				- saponiny
+				- glikozydy fenolowe
+	- mydlnica lekarska *Saponaria officinalis* Goździkowate *Coryophylaceae*
+		- surowiec - kłącze
+		- skład:
+			- saponiny do 5%
+				- steroidowe
+			- saporubina
+			- saponazyd A i B
+			- węglowodany
+			- tłuszcze
+			- sole mineralne
+		
+	- bluszcz pospolity *Hedera helix* Araliowate *Araliaceae*
+		- hederakozyd B i C
+	- kasztanowiec zwyczajny *Aesculus hippocastanum* Kasztanowcowate *Hippocastanaceae*
+		- escyna
+		- protoescygenina, baryngtogenina C
+		-
+	- Mydłodrzew właściwy *Quillaia saponaria* Mydłodrzewowate *Quillajaceae*
+		- saponazydy A i B
+	- Żeńszeń *Panax ginseng* Araliowate *Araliaceae*
+		- ginsenozydy
+	- Lukrecja gładka *Glycyrrhiza glabra* Bobowate *Fabaceae*
+		- gliceryzyna
+		- saponiny steroidowe
+		- flawonoidy
+- nazwa saponiny
+- część rośliny dostarczająca saponin
+	- skórka łodygi, owoców
+	- korzenie roślin
+- działanie i zastosowanie w kosmetyce:
+	- pierwiosnki lekarskiej
+		- składniki regeneracyjne do pielęgnacji cery suchej i zwiotczałej
+		- właściwości odmładzające
+		- zapobiega zmarszczkom
+		- poprawia elastyczność skóry
+		- ujędrnia
+		- wspomaga likwidację cellulitu poprzez stymulację krążenia krwi
+		- działanie oczyszczające
+		- usuwanie zaskórników
+		- kremy
+		- toniki do oczyszczania
+		- maseczki do cery trądzikowej
+	- mydlnicy lekarskiej
+		- antybakteryjne
+		- przeciwgrzybicze
+		- likwiduje bakterie i grzyby, które wywołuja łojotokowe zapalenie skóry
+		- leczenie licznych chorób skóry
+		- środek pomocniczy przy łojotokowym zapaleniu skóry
+		- wypadanie włosów
+		- łupież
+		- trądzik
+		- opryszczka
+		- egzemy
+		- szampony
+		- płyny do kąpieli
+		- pasty do zębów
+		- maseczki do twarzy
+		- wywar z mydlnicy:
+			- środek do mycia włosów
+			- wzmacnia
+			- zmiękcza
+			- usuwa łupież
+			- zapobiega przetłuszczaniu
+			- regeneruje zniszczone włosy po zabiegach fryzjerskich
+	- bluszczu pospolitego
+		- przeciwgrzybicze
+		- pomaga w poceniu się stóp
+		- kremy
+		- lotiony
+		- szampony przeciwłupieżowe
+	- lukrecji
+		- przeciwzapalne
+		- przeciwwirusowe
+		- wybielające
+		- moczopędne
+		- hemolityczne
+		- żele
+		- toniki
+		- lotiony do skóry atopowej
+		- zaczerwienienia
+		- obrzęki miejscowe
+		- swędzenia
+	- mydłoki właściwej
+		- immunostyumulujące
+		- przeciwwirusowe
+		- przeciwgrzybicze
+		- przeciwbakteryjne
+		- przeciwpasożytnicze
+		- szampony
+		- preparaty przeciwłupieżowe
+		- środki myjące, piorące dla alergików i dzieci
+		- emulagator w płynach do płukania jamy ustnej
+- wymienić inne rośliny dostarczające saponin
+	- agave
+	- Kozieradka pospolita *Trigonella foenum-graecum* 
+	- Juka karolińska *Yucca filamentosa*
+	- acacia victoriae
+	- soja warzywna *Glycine max*
+
+Polifenole - podział
+- hydrolizujące
+	- tanoidy
+- niehydrolizujące - garbniki skondensowane
+	- garbniki katechinowe
+	- proantocyjanidyny
+- surowce:
+	- kora dębu *Quercus cortex*
+		- garbniki
+		- galantonoidy
+	- kłącze pięciornika
+		- elagotonoidy
+	- kłącze wężownika (rdest wężownik *Polygonium bistoria*)
+		- galantanoidy
+		- garbniki katechinowe
+	- liście jeżyny (jeżyna fałdowana *Rubus fructicosus*)
+		- galantanoidy
+	- orzech włoski *Juglaus religa - Juglandis folium*
+		- elagotaniny
+		- naftochinon - juglol - barwi na żółto-brunatno
+	- rzepak pospolity
+		- garbniki katechinowe
+		- elagotaniny
+
+Flawonoidy:
+- podział
+	- flawanony
+		- naryngenina
+		- naryngina
+		- hesperetyna
+		- hesperedyna
+	- flawonole
+		- kwercytyna
+		- kamferol
+		- mirecytyna
+		- fisteina
+		- morina
+	- flawony
+		- apigenina
+		- diosmetyna
+		- luteolina
+	- izoflawony
+		- daidzeina
+		- genisteina
+	- flawanole
+		- epikatechina
+		- epigallokatechina
+		- katechina
+	- antocyjany
+		- cyjanidyna
+		- pelargonidyna
+		- malwidyn
+- właściwości
+- działanie
+	- antyoksydacyjne
+	- prooksydacyjne
+	- przeciwzapalne i przeciwalergiczne
+	- przeciwmiażdżycowe
+	- uelastyczniają naczynia krwionośne
+	- działanie antyagregacyjne
+- zastosowanie w kosmetyce
+	- żele zawierające od 0,01% do 0,1% antocyjanów z aronii chronią skórę przed promieniowaniem UV
+	- maści zapobiegające żylakom
+	- kosmetyki do skóry naczynkowej
+
+Tabela z roślinami

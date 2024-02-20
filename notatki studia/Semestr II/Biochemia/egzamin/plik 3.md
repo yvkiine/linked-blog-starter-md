@@ -1,0 +1,100 @@
+- cukry
+	- budowa
+		- składają się z węgla, wodoru i tlenu
+		- monosacharyd składa się z łańcucha węglowego z licznymi grupami hydroksylowymi (OH) i jednej grupy aldehydowej (-CHO) lub jednej grupy ketonowej (-CO) - stąd aldozy i ketozy
+		- cukry zawierające w otwartej konfiguracji łańcuchowej wolną grupę aldehydową lub ketonową mogą redukować jony miedziowe Cu2+ do jonów miedziawych Cu+ i dlatego są cukrami redukucjącymi - koniec redukujący łańcucha cukru jest końcem zawierającym grupę aldehydową lub ketonową
+		- w biochemii monosacharydów istotne znaczenie ma równowaga między formami łańcuchowymi i cyklicznymi oraz między aldozami i ketozami
+		- heksozy w formie łańcuchowej zawierają ̨w cząsteczce 4 (aldozy) lub 3 (ketozy) asymetryczne atomy węgla, co powoduje występowanie znacznej liczby form przestrzennych monosacharydów (łącznie z izomerami D i L – 8 dla ketoz i 16 dla aldoz)
+		- grupa aldehydowa lub ketonowa może reagować z grupą hydroksylową tworząc wiązanie kowalencyjne - w przypadku tetroz i dużych cukrów ta reakcja zachodzi wewnątrz cząsteczki tworząc formę cykliczną
+		- mutarotacja - szybkie, wzajemne przekształcanie się form alfa i beta w roztworze wodnym poprzez otwartą strukturę łańcuchową, aż do osiągnięcia stanu równowagi przez mieszaninę
+		 - ![[Drawing 2022-06-07 20.31.01.excalidraw.svg]]
+		 - pierścienie sześciowęglowe, takie jak glukoza, nazywa się piranozami, a pięciowęglowe, takie jak D-ryboza i sześciowęglowe cukry ketozy, takie jak D-fruktoza nazywa się furanozami
+		 - pierścień piranozowy sześciowęglowego cukru, aldozy, oże przyjąć konfigurację łódkową albo krzesełkową
+	- podział
+		- ![[sacharydy.excalidraw.svg]]
+	- funkcje w organizmie
+		- tetrozy
+			- pochodne fosforanowe aldozy - erytrozy i ketozy - erytrulozy, które biorą udział w utlenianiu glukozy w cyklu fosforanów pentoz oraz w przemianach związanych z fotosyntezą
+		- pentozy
+			- ß-D-ryboza i ß-D-deoksyryboza - składniki kwasów nukleinowych
+			- estry fosforanowe - w przemianach cyklu fosforanów pentoz i fotosyntezy
+			- ryboza wchodzi w skład wielu koenzymów i związków makroergicznych typu trifosforanów
+			- ketopentozy D-rybuloza i D-ksyluloza - ich pochodne wchodzą w przeminay fotosyntezy i cyklu fosforanów pentoz
+		- heksozy
+			- glukoza - estry fosforanowe glukozy i fruktozy biorą udział w przemianach sacharydów, a 1-fosforan pozostaje w równowadze w organizmie z glikogenem i jest produktem przejściowym przy jego organizmie; główny substrat do produkcji energii; może być magazynowana w wątrobie i mięśniach w postaci glikogenu i ponownie uwalniania w przypadku jej niedoboru
+			- pochodne cukrów prostych: aminoheksozy i kwasy uronowe tworzą wielkocząśteczkowe połączenia zwane glikozaminoglikanami, należącymi do głównych składników macierzy pozakomórkowej
+			- monosacharydy i ich pochodne łączą się z białkami lub lipidami tworząc glikoproteiny i glikolipidy
+- cukry i ich pochodne w kosmetologii - przykłady, budowa i ich rola
+	- GLUKOZA, FRUKTOZA → nawilżające 
+	- SACHAROZA → składnik mydeł transparentnych, peelingi grubo i drobnoziarniste, odżywianie naskórka, pobudzanie krążenia krwi, dotlenianie skóry, poprawa wchłaniania kosmetyków, wygładzanie, depilacja (pasta cukrowa) 
+	- GUMY (guar, ksantanowa, karob) → polisacharydy + enzymy + sole sodowe/wapniowe/magnezowe/potasowe kwasów uronowych; tworzą z wodą hydrokoloidy, substancje wiążące wodę, zagęszczacze, stabilizatory, odżywianie włosów
+	- SKROBIA → rozpuszczalna: preparaty zatrzymujące na skórze wilgoć → wygładzanie i kondycjonowanie skóry i włosów; granulowana: natłuszczanie i utrzymywanie wilgoci
+	- CELULOZA → pasty do zębów, pudry, maseczki, mikrokrystaliczna ma zdolność do tworzenia żeli → stabilizator i czynnik wiążący
+	- CHITYNA → składnik suchych szamponów do włosów
+	- CHITOZAN → zatrzymywanie wody, przywracanie wilgotności i elastyczności skórze, regulacja równowagi białkowo-cukrowej, bakteriobójcze, regulacja gojenia ran i ziarninowania, tworzy film okluzyjny → ochronne; jego sole z kwasem octowym i mlekowym tworzą roztwory o dużej lepkości mające silne zdolności błonotwórcze, zapobiegają elektryzowaniu się włosów, składniki lakierów do włosów i środków do modelowania
+- monosacharydy biologicznie ważne - wzory, funkcja fizjologiczna, występowanie
+	- glukoza
+		- składnik sacharozy, laktozy, maltozy, polisacharydów - skrobi, celulozy, glikogenu, dekstranów
+		- występuje razem z fruktozą w miodzie pszczelim i owocach
+		- występuje we krwi
+		- podstawowy związek energetyczny dla większości organizmów
+	- galaktoza
+		- pod względem budowy różni się od glukozy konfiguracją podstawników przy C-4 i może ulegać odwracalnemu przekształceniu w ten związek przy udziale enzymu epimerazy 4-UDP-glukozowej
+		- w formie utlenionej do kwasu galakturonowego jest składnikiem pektyn i innych sacharydów złożónych oraz ich pochodnych, określanych ogólnie jako polisacharydy kwaśne
+	- fruktoza
+		- soki owocowe, miód
+		- hydrolizat sacharozy z inuliny
+		- w wątrobie i jelitach przekształca się w glukozę i tak zużywa ją organizm
+	- ryboza
+		- występuje w kwasach nukleinowych
+		- składnik strukturalny kwasów nukleinowych i koenzymów, np. ATP, NAD, NADP, flawoprotein
+		- metabolit pośredni w cyklu pentozofosforanowym
+	- deoksyryboza
+		- występuje w DNA
+	- mannoza
+		- hydrolizat gum i martnozanów roślinnych
+		- występuje w stanie wolnym w roślinach oraz we wszystkich organizmach jako składnik glikoprotein i glikolipidów
+		- w postaci alkoholu mannitolu pełni w roślinach istotne funkcje regulacyjne - zwiększenie tolerancyjności przeciw zasoleniu i stresom osmotycznym
+- produkty utleniania cukrów prostych
+	- utlenianie aldoz -> kwasy aldonowe (grupa aldehydowa utleniona), aldarowe (grupa aldehydowa i hydroksylowa utleniona)
+	- utlenienie grupy -CH2OH -> przekształcenie cukru w kwas uronowy
+		- glukoza przekształca się w kwas glukuronowy, a galaktoza w kwas galakturonowy
+		- wolne monosacharydy nie mogą pełnić roli substratu w tej reakcji - proces ten zachodzi drogą enzymatyczną poprzez utlenianie nukleotydowych pochodnych odpowiednich cukrów
+- biologicznie ważne produkty utleniania cukrów i ich rola w procesach metabolicznych
+	- kwas glukuronowy:
+		- element układu detoksykacyjnego; zwalcza wolne rodniki
+		- 
+- biologicznie ważne produkty redukcji monocukrów i ich rola w procesach metabolicznych
+- produkty estryfikacji monocukrów i ich rola w procesach metabolicznych
+- dwucukry biologicznie ważne - wzory, funkcja fizjologiczna, występowanie
+	- laktoza
+	- sacharoza
+	- trehaloza
+	- maltoza
+	- izomaltoza
+- wiązanie O- i N- glikozydowe - powstawanie glikozydów
+- glikozydy i ich rola w kosmetologii - przykłady - saponiny, związki fenolowe
+- homo- i heteroglikany oraz związki sprzężone - różnica w budowie, przykłady, funkcja fizjologiczna
+- budowa i funkcje, rola w kosmetologii:
+	- skrobi
+	- glikogenu
+	- celulozy
+	- hemicelulozy
+	- ligniny
+	- chityny
+	- pektyn
+- rozkład skrobi w przewodzie pokarmowym
+- budowa, działanie w organizmie, rola w kosmetologii:
+	- kwasu hialuronowego
+	- kwasów chondroitynosiarkowych
+	- heparyny
+	- kwasów sjalowych
+	- substancji grupowych krwi
+- błonnik pokarmowy - budowa i rola w przemianach metabolicznych
+- do jakiej klasy enzymatycznej należą amylazy? jakie reakcje katalizują?
+- na czym polega różnica w sposobie działania na skrobię pomiędzy alfa i ß-amylazą
+- które enzymy określa się jako endoamylazy, a które jako egzoamylazy i dlaczego?
+- na czym polegają metody oznaczania aktywności ß-amylazy?
+- jakie końcowe produkty powstają po działaniu poszczególnych amylaz na amylozę,
+- a jakie na amylopektynę?
+- typy organizmów, w których występują alfa, ß- i glukoamylazy - wymienić i jakie funkcje pełnią w nich te enzymy?

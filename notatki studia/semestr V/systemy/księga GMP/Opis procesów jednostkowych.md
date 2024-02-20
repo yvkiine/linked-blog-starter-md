@@ -1,0 +1,24 @@
+- Sterylizacja przyborów
+	- umieszczenie wszystkich potrzebnych przyborów zapakowanych w pakiety w sterylizatorze ustawionym według odpowiednich parametrów
+- Wywiad z klientem
+	- zadanie pytań klientowi w celu otrzymania informacji o ewentualnych przeciwwskazaniach oraz odpowiadanie na pytania klienta związane z zabiegiem
+- Ocena wyglądu twarzy i konsultacja efektów
+	- wizualna ocena twarzy w celu dobrania odpowiedniego kształtu oraz wielkości ust skonsultowana z oczekiwaniami klienta wobec efektów końcowych
+- Przygotowanie stanowiska i osoby przeprowadzającej zabieg
+	- zdezynfekowanie przy pomocy odpowiedniego środka dezynfekująego powierzchni w pobliżu przestrzeni, w której jest wykonywany zabieg
+	- umieszczenie jednorazowego podkładu papierowego na fotelu zabiegowym
+	- umieszczenie tacki z przyborami w miejscu wygodnym dla osoby wykonującej zabieg
+	- założenie przez osobę wykonującą zabieg rękawiczek
+- Oczyszczenie i dezynfekcja warg
+	- przetarcie oczyszczającym kosmetykiem wargi jednorazowym gazikiem
+	- przetarcie substancją dezynfekującą wargi jednorazowym gazikiem
+- Znieczulenie warg
+	- nałożenie maści znieczulającej na wargi, odczekanie czasu podanego przez producenta maści, usunięcie maści
+- Nakłuwanie ust
+	- wykonanie kilku wkłuć w usta w różnych miejscach oraz na różną głębokość w celu wprowadzenia kwasu hialuronowego
+- Masaż ust
+	- delikatne rozmasowanie ust i ich okolic w celu poprawnego rozłożenia się kwasu hialuronowego w tkankach
+- Dezynfekcja końcowa
+	- delikatne przetarcie ust niedrażniącym środkiem dezynfekującym za pomocą gazika oraz usunięcie jednorazowego podkładu z fotela
+- Zapoznanie klienta z pielęgnacją
+	- zaprezentowanie klientowi możliwych dolegliwości występujących po zabiegu i zaleceń związanych z pielęgnacją 

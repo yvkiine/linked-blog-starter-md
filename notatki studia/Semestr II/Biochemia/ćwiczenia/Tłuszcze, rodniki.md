@@ -1,0 +1,146 @@
+Zagadnienia:
+- reakcje oksydoredukcyjne w komórce
+	- przykłady wolnych rodników oraz związków nierodnikowych
+		- wolne rodniki:
+			- ponadtlenkowy
+			- anionorodnik ponadtlenkowy
+			- hydroksylowy
+				- ozon
+				- nadtlenek wodoru
+				- kwasy: 
+					- nadtlenoazotowy
+					- podchlorawy
+		- **związki nierodnikowe**
+			- 
+	- endogenne źródła wolnych rodników w warunkach fizjologicznych
+		- enzymy i inne białka:
+			- dioksygenaza tryptofanowa
+			- oksydaza ksantynowa
+			- peroksydaza (np. podczas utleniania NADH)
+			- hemoglobina
+		- Małe cząsteczki podlegające reakcji samoutleniania
+			- zredukowane ryboflawiny (FMNH2, FADH2)
+			- difenole (adrenalina)
+			- melanina
+		- Organelle komórkowe
+			- mitochondrialny łańcuch przenośników elektronów
+			- chloroplastowy łańcuch przenośników elektronów (PSI)
+			- mikrosomalny łańcuch przenośników elektronów
+			- błony plazmatyczne
+			- bakteryjny łańcuch transportu elektronów
+	- egzogenne źródła wolnych rodników w warunkach fizjologicznych
+		- UV, ultradźwięki, promienniowanie, toksyczne chemikalia, jony metali
+		- zanieczyszczenia środowiska
+		- promieniowanie jonizujące
+		- alkohol
+		- chemioterapia
+		- spaliny, pestycydy, nikotyna
+	- powstawanie H2O2 - reakcja Fentona, reakcja Habera-Weissa
+		- reakcja Fentona (Fe2+/Cu+ - katalizatory)
+			- H2O2 + 2O2 + 2H+ -> OH + Fe3+ + H2O
+		- reakcja Habera-Weissa
+			- H2O2 + O2- + H+ -> OH + O2 + H2O
+	- peroksydacja lipidów - kolejne etapy; szkodliwość procesu
+		- dotyczy lipidów błonowych, przez co prowadzi do zmniejszenia płynności błony i wzrostu jej przepuszczalności a także inaktywacji enzymów błonowych
+		- etapy:
+			- rozpoczyna ją rodnik hydroksylowy - odczepia jon wodorowy od cząsteczi KT, przez co powstaje rodnik alkilowy oraz cząsteczka wody
+			- rodnik przebudowuje się do formy dienowej (powstaje wiązanie podwójne)
+			- przyłączany jest tlen - powstaje wolny rondnik
+		- szkodliwość procesu:
+			- wpływ na grupy tiolowe - wolne rodniki powodują oderwanie jonu wodorowego, przez co możlwe jest tworzenie mostków disiarczkowych i inaktywacja enzymów
+			- agregacja białek osłonki mielinowej przez polimeryzację reszt tyrozynowych
+			- oddziaływanie na centrum aktywne enzymu - uszkodzone białka ulegają proteolizie
+	- trójstopniowy system obrony antyoksydacyjnej
+		- jakie są składniki i role antyoksydantów z każdego stopnia
+		- pierwsza linia obrony - niedopuszczenie do powstania wolnych rodników tlenowych oraz ich reakcji ze związkami biologicznie czynnymi (enzymy antyoksydacyjne oraz białka wiążące jony pierwiastków przejściowych)
+		- druga linia obrony - wymiatacze reaktywnych form tlenu - przerywają łańcuchowe reakcje wolnorodnikowe, a także nierodnikowe reakcje utleniania (witamina C, kwas moczowy, glutation - środowisko wodne; witamina E, karotenoidy, ubihydrochinon - środowisko lipofilne)
+		- trzecia linia obrony antyoksydacyjnej - usuwanie skutków reakcji RFT z biomolekułami - odtworzenie prawidłowej struktury uszkodzonych cząstek, m.in przez enzymy naprawiające uszkodzone DNA
+	- rola enzymów antyoksydacyjnych i jakie reakcje katalizują
+		- peroksydaza glutationowa - rozkłada z katalazą H2O2
+		- reduktaza glutationowa - przeprowadza utleniony glutation do formy zredukowanej, która może reagować z H2O2
+		- katalaza - wchodzi w reakcję z H2O2, gdy jego stężenie jest wysokie - powyżej 10^8 mol/L
+	- źródła przeciwutleniaczy w diecie
+		- fasola
+		- soczewica
+		- zielona herbata
+		- winogrona
+		- brokuły i brukselka
+		- cytrusy
+		- groch
+- tłuszczowce
+	- wyjaśnij pojęcie NNKT - podaj przykłady
+		- niezbędne nienasycone kwasy tłuszczowe (tylko takie, które mają więcej, niż jedno podwójne wiązanie);
+		- nie są syntetyzowane w komórkach zwierzęcych w dostatecznych ilościach i muszą być dostarczane z zewnątrz
+		- ich brak powoduje zakłócenia w prawidłowym funkcjonowaniu organizmy, z zahamowaniem wzrostu włącznie
+	- **podaj przykłady izomerów trans znanych kwasów tłuszczowych**
+		- kwas oleinowy - forma trans to kwas elaidynowy
+	- **budowa miceli tłuszczowej i liposomu**
+	- kwas fosfatydowy - budowa, funkcje
+		- powstaje w wyniku reakcji estryfikacji kwasy L-alfa-glicerofosforowego z dwoma cząsteczkami kwasów tłuszczowych
+		- powstają z niego fosfoglicerydy
+	- lecytyny - budowa, własności, występowanie
+		- zbudowane z cząsteczki gliceerolu zestryfikowanego 2 cząsteczkami kwasów tłuszczowych, a jedna z resz -OH zestryfikowana jest kwasem fosforowym, a następnie choliną
+		- wpływa na pocenie się
+		- sprawność układu nerwowego
+	- kefaliny - budowa, własności, występowanie
+		- podobnie jak lecetyny, ale zamiast choliny zestryfikowane są kolaminą lub seryną
+		- lecytyna i cholina mają własności amfofilowe - zdolność rozpuszczania się w rozpuszczalnikach organicznych, jak równiejsz i w wodzie
+		- występują głównie w tkance nerwowej
+	- od czego zależą własności amfofilowe lecytyn, kefain i kwasów żółciowych?
+		- zwiększona polarność cząsteczki w stosunku do tłuszczów włąściwych, spowodowana obecnością reszt kwasu fosforowego jak i polarnych cząsteczek choliny, etanoloaminy lub seryny
+	- ceramidy - budowa i funkcje
+		- zbudowany ze sfingozyny połączonej wiązaniem amidowym z kwasem tłuszczowym
+		- należą do wosków
+		- zapobiegają nadmiernej utracie wody ze skóry
+		- bariera przed mikroorganizmami
+	- uzasadnij nazwę "tłuszczowce niezmydlające się" - podaj przykłady
+		- w związkach tych brak jest kwasów tłuszczowych mogących tworzyć sole
+		- są tłuszczowcami, bo zgodnie z definicją tłuszczowców, rozpuszczają się w rozpuszczalnikach organicznych i tłuszczach właściwych
+		- izopren
+		- pirofosforan izopentenylu
+		- terpeny
+			- cytronellol
+			- limonen
+			- kamfora
+			- pinen
+		- sterydy
+	- karotenowce i karoteny - budowa i funkcje
+		- są to tetraterpeny
+		- karotenowce alifatyczne (węglowodory)
+		- karotenowce cykliczne
+			- karoteny
+		- karotenowce tlenowe
+		- pomarańczowe lub czerwone barwniki
+		- liczne wiązania podwójne sprzężone
+		- pełnią ważną rolę w procesie fotosyntezy (barwniki pomocnicze - absorbują światło i przenoszą je na chlorofil)
+		- ochrona aparatu fotosyntetyzującego przed utlenianiem
+		- procesy przeno szenia tlenu
+		- prekursory hormonów roślinnych
+	- jakie związki są prekursorami wiraminy A?
+		- karoteny
+	- budowa i funkcje witamin A, D, E i K
+		- A 
+			- udział w procesie widzenia
+			- witamina wzrostowa
+			- ochrania nabłonki
+		- E
+			- pochodne chromanu (dwa skondensowane pierścienie benzenu i tetrahydropiranu, w pozycji 2 tetrahydropiranu przyłączony jest łańcucuh trójizopentenolu)
+			- właściwości redukujące
+			- ochrona aparatu mitochondrialnego przed utlenianiem
+			- zapobiega zwyrodnieniom macicy i resorpcji płonu
+			- reguluje spermatogenezę
+		- K
+			- aromatyczny dwupierścieniowy układ naftochinonu
+			- czynnik przeciwkrwotoczny - aktywuje protrombinę w trombinę
+			- udział w procesach oksydoredukcyjnych
+			- udział w procesie oddychania komórkowego
+		- D
+			- prekursorem są czynne nienasycone sterole delta5-7, przekształcają się pod wpływem UV w czynne witaminy
+			- wzgmaga resorpcję jonów Ca2+ z przewodu pokarmowego i odkładanie go w kościach
+	- budowa ogólna sterydów - przykłady związków z tej grupy
+		- pochodne cyklopentanoperhydrofenantrenu - 4 pierścienie cykliczne (sześcioczłonowe) i 1 pięcioczłonowy typu cyklopentanu
+		- cholesterol
+		- fitosterole
+		- digitoniny
+		- saponiny sterydowe
+		- solanina

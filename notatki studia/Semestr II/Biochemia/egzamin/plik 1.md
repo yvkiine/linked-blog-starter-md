@@ -1,0 +1,189 @@
+- pojęcia:
+	- metabolizm
+		- jest to całokształt reakcji biochemicznych zachodzących w komórkach organizmu, związany z przepływem materii, energii i informacji, zapewniający organizmowi wzrost, ruch, rozmnażanie, wrażliwość i pobudliwość.
+	- ogólna przemiana materii
+		- całokształt procesów materialnych i energetycznych zachodzących pomiędzy środowiskkiem a ustrojem w normalnych warunkach fizjologiczncyh
+	- podstawowa i pośrednia przemiana materii
+		- podstawowa - to całokształt przemian metabolicznych niezbędnych do podtrzymania istotnych (podstawowych) czynności życiowych (np. układu oddechowego, układu krążenia, układu nerwowego), w warunkach zupełnego spokoju, przy pustym przewodzie pokarmowym, w temperaturze pokojowej
+		- pośrednia - całość przemian chemicznych i fizycznych odbywających się w komórkach, tkankach i narządach.
+	- katabolizm
+		- obejmuje reakcje rozkładu złożonych związków oragnicznych na produkty proste. Wyzwolona z tych związków energia jest kumulowana w postaci ATP
+	- anabolizm
+		- obejmuje reakcje syntezy (biosyntezy) związków organicznych (złożonych) ze związków prostych (substraty). Reakcje te wymagają dostarczenia energii, w wyniku czego w produktach gromadzi się więcej energii niż jest zawarte w substratach
+	- termogeniczne działanie pokarmów
+		- produkcja ciepła podczas trawienia i wchłaniania pokarmów podnosi się o 30% ponad poziom podstawowy; efekt ten jest odpowiedzialny za 5-10% wzrost zapotrzebowania kalorycznego
+	- fosforylacja oksydacyjna
+		- mechanizm wiążący energię wyzwalającą się w kolejnych etapach w formie wytwarzanego ATP
+		- wymaga obecności tlenu jako akceptora elektronów
+		- podczas procesu reoksydacji NADH do NAD+ (przeniesienie elektronów na O2) tworzony jest gradient procentowy w poprzek błony mitochondrialnej
+		- cykl reakcji przyłączenia reszty kwasu ortofosforowego do związków chemicznych połączona ze zmianą stopnia utleniania atomu, do którego ta grupa bezpośrednio się przyłącza
+		- synteza ATP z ADP i reszty fosforanowej związana z utlenianiem różnych zredukowanych metabolitów przy udziale tzw. łańcucha oddechowego i wykorzystaniem O2 atmosferycznego jako końcowego akcceptora elektronów
+		- u organizmów tlenowych jest głównym źródłem ATP
+	- fosforylacja substratowa - przykłady
+		- reszta fosforanowa zostaje przeniesiona bezpośrednio do ADP przy wykorzystaniu energii z organicznego substratu
+		- nie wymaga udziału tlenu
+		- zachodzi w glikolizie i cyklu Krebsa
+- ciepło - bilans cieplny organizmu, jego znaczenie
+	- ciepło:
+		- jeden z dwóch sposobów, obok pracy, przekazywania energii układowi termodynamicznemu
+	- bilans cieplny:
+		- jest to zestawienie ilości energii cieplnej pobieranej i traconej przez organizm w tym samym czasie, wyrażone w dżulach (J) lub kaloriach (cal) 
+- na co wykorzystywana jest energia pobierana z pokarmu?
+	- wzrost i odnowa komórek
+	- synteza związków chemicznych
+	- aktywnyy transport substancji
+	- energia mechaniczna
+	- energia cieplna 
+- budowa, cechy i funkcje błony komórkowej
+	- budowa:
+		- podwójna warstwa lipidów (hydrofilowa na zewnątrz, hydrofilowa do środka)
+		- tkwią w niej kompleksy białkowe: receptory substancji, pompy, kanały jonowe
+	- cechy:
+		- struktury warstwowe
+		- zbudowane z lipidów i białek
+		- lipidy wchodzące w jej skład mają reszty hydrofilowe i hydrofobowe
+		- w charakterystycznych funkcjach błon pośredniczą specyficzne białka
+		- są zespołami cząsteczek niezwiązanych kowalencyjnie - tworzące błonę cząsteczki białek i lipidów są połączone ze sobą przez liczne oddziaływania niekowalencyjne o charakterze kooperatywnym
+		- są asymetryczne
+		- są strukturami płynnymi
+		- spolaryzowana elektrycznie
+	- funkcje:
+		- odgradzają wnętrze danego przedziału od środowiska zewnętrznego - zachowanie odrębności i integralności np. komórki
+		- możliwość utrzymania różnicy stężeń różnych substancji oraz potencjałów elektrycznych
+		- systemy transportu
+		- wymiana informacji
+		- przekształcanie energii
+- charakterystyka lipidów wchodzących w skład błon komórkowych i skóry
+	- błony komórkowe:
+		- fosfolipidy - związki tłuszczowe zawierające dołączoną resztę fosforanową i dzielą się na:
+			- fosfoglicerydy - glicerol, do którego dołączone są dwie reszty kwasów tłuszczowych długości ok. 16-18 at. C oraz reszta fosforanowa, a do niej - alkohol
+			- w zwierzęcych kwasach tłuszczowych łańcuchy węglowe są nierozgałęzione i mogą być nasycone lub nienasycone
+			- podwójne wiązanie w nienasyconych kwasach tłuszczowych przyjmuje prawie zawsze konfigurację cis
+			- sfingomielina - jedyny fosfolipid błon nie będący pochodną glicerolu - zamiast tego jest sfingozyna
+				- grupa aminowa szkieletu sfingozyny łączy się z kwasem tłuszczowym poprzez wiązanie amidowe
+				- pierwszorzędowa grupa hydroksylowa sfingozyny jest zestryfikowana fosfocholiną
+		- glikolipidy - lipidy zawierające cukier
+			- pochodne sfingozyny
+			- grupa aminowa szkieletu sfingozydowego jest zacylowana kwasem tłuszczowym
+			- różnią się od sfingomieliny typem cząsteczki, związanej z pierwszorzędową grupą hydroksylową szkieletu sfingozynowego - zamiast fosfocholiny jest jedna lub kilka cząsteczek cukru
+			- cerebrozyd - najprostszy glikolipid
+				- występuje tylko jedna cząsteczka cukru - glukoza lub galaktoza
+			- gangliozydy - mają rozgałęziony łańcuch złożony z siedmiu reszt cukrowych
+			- globozydy - różnią się od kwaśnych glikolipidów (takich jak gangliozydy) pod względem ładunku ich polarnych grup węglowodanowych
+				- te polarne grupy głów zwykle mają więcej niż dwie cząsteczki cukru, wśród których są zwykle D-glukoza, D-galaktoza i N-acetylo-D-galaktozamina oraz, w mniejszym stopniu, fukoza i _N_-acetyloglukozamina.
+		- sterole
+			- cholesterol
+				- modeluje płynność błon komórkowych
+				- prekursor hormonów steroidowych i soli żółciowych
+				- powstaje z acetylo-CoA
+			- ergosterol
+				- prowitamina D2
+				- wchodzi w skład błon komórkowych grzybów, spełniając tę samą funkcję, co cholesterol w komórkach zwierzęcych 
+- cechy charakterystyczne błon biologicznych
+	- płynność
+		- wszystkie praktycznie składniki błon poruszają się
+		- cząsteczki lipidów mogą obracać się wokół osi prostopadłej do powierzchni błony (tzw. dyfuzja rotacyjna) jak i przemieszczać się w jej płaszczyźnie (dyfuzja lateralna)
+		- ruchy łańcuchów węglowodorowych lipidów, zależą od temperatury i ilości wiązań nienasyconych
+		- im bardziej ruchliwe są łańcuchy węglowodorowe tym większą zajmują efektywną objętość i tym samym luźniej upakowane są cząsteczki lipidów w dwuwarstwie - ma to duże znaczenie zarówno dla własności błony jako przegrody jak i dla działania wielu białek błonowych
+		- czynnikiem regulującym płynność błon jest obecność w nich cząsteczek steroli - w błonach komórek eukariotycznych przede wszystkim cholesterolu
+		- zjawisko "flip-flop" - cząsteczki lipidów mogą przechodzić z warstwy cytoplazmatycznej do zewnętrznej (lub odwrotnie)
+		- białka integralne mogą ulegać dyfuzji rotacyjnej i lateralnej; ze względu na rozmiary ich cząsteczek oba typy dyfuzji są dla białek wolniejsze niż dla lipidów
+		- brak zjawiska "flip-flop" dla białek
+	- asymetryczność
+		- strona cytoplazmatyczna błony ma z reguły inny skład niż strona kontaktująca się z otoczeniem - zarówno skład lipidowy i białkowy obu połówek błony
+		- po cytoplazmatycznej stronie błony znajduje się znacznie więcej lipidów posiadających elektrycznie naładowane głowy polarne oraz łatwo tworzących wiązania wodorowe
+		- zewnętrzkomórkowa warstwa błony zawiera więcej fosfatydylocholiny i sfingomieliny
+		- białka powierzchniowe zlokalizowane są przede wszystkim po cytoplazmatycznej stronie błony
+		- po stronie zewnętrznej natomiast często występuje duża ilość glikolipidów i glikoprotein
+		- cecha asymetrii dotyczy również funkcji pełnionych przez błony:
+			- w poprzek błony istnieje różnica potencjałów elektrycznych, różnica stężeń wielu substancji, transport określonych substancji odbywa się z reguły w jednym tylko kierunku itp.
+	- heterogenność
+		- występowanie niejednorodności w rozkładzie składników w płaszczyźnie błony
+		- w płaszczyźnie błony można wyróżnić tzw. domeny, wyraźnie różniące się między sobą składem oraz własnościami
+		- przyczyną istnienia domen jest między innymi to, że białka integralne często otoczone są przez specyficzne rodzaje lipidów - własności błony w rejonie takiej otoczki są zwykle odmienne od własności rejonów w których nie występuje oddziaływanie białkowo-lipidowe
+		- tworzeniu się domen sprzyja też fakt, że białka błonowe często tworzą agregaty (zwykle jest to związane z pełnionymi przez nie funkcjami)
+- rodzaje transportu przez błony komórkowe
+	- transport aktywny - filtracja
+		- przedostawanie się przez błonę wody i substancji w niej rozpuszczonych, których średnica jest mniejsza od średnicy porów w błonie
+		- zachodzi dzięki różnicy ciśnień osmotycznych występujących po obu stronach błony
+		- np. pierwszy etap tworzenia moczu w nerkach
+	- dyfuzja prosta
+		- swobodny przepływ niewielkich, nienaładowanych cząsteczek
+	- dyfuzja ułatwiona
+		- transport z wykorzystaniem kanałów lub przenośników błonowych
+		- biorą w niej udział białka zwane nośnikami
+	- osmoza
+		- przenikanie rozpuszczalnika (wody) ze środowiska o niższym stężeniu do środowiska o wyższym stężeniu w celu wyrównania stężeń obu roztworów
+	- transport aktywny
+		- wymaga nakładu energii pochodzącej z rozpadu ATP, ponieważ zachodzi wbrew gradientowi stężeń
+		- zachodzi zawsze z udziałem białek integralnych sprzęgających transport z procesem uwalniania energii
+	- endocytoza
+		- komórki pochłaniają materiał przez błonę poprzez wypuklenia błony komórkowej
+		- pobranie przez komórkę substancji z zewnątrz, przeniesienie przez błonę do cytozolu i uwolnienie zawartej w otoczce pęcherzyka treści
+		- pinocytoza
+			- proces niespecyficzny, przebiegający stale i w obu kierunkach
+			- polega na wpuklaniu jednej z powierzchni błony, objęciu tym wgłębieniem fragmentu treści nad powierzchnią i wytworzeniu pęcherzyka pinocytarnego, w którym jest ona zamykana
+			- pęcherzyk przenosi treść do drugiej powierzchni błony i uwalnia ją
+			- służy do pobierania przez komórkę substancji energetycznych z otoczenia oraz do usuwania na zewnątrz komórki substancji odpadowych metabolizmu
+		- fagocytoza
+			- wchłonięcie dużych cząstek (np. bakterii, fragmentów komórki) z wytworzeniem dużych pęcherzyków endocytarnych (fagosomów), w których są trawione
+			- działa jako mechanizm ochronny, zapobiegając infekcji i zaleganiu substancji obcych, martwych komórek własnych i ich fragmentów
+	- egzocytoza
+		- wydzielanie np. uformowanych białek do przestrzeni pozakomórkowej
+		- proces ten zachodzi na drodze fuzji pęcherzyków transportujących metabolity z błoną komórkową od wewnątrz, co skutkuje wyrzuceniem ich zawartości do środowiska pozakomórkowego
+- działanie i znaczenie pompy sodowo-potasowej
+	- wyrzuca Na+ na zewnątrz komórki, do wnętrza komórki transportuje jony K+ (z miejsc o niższym stężeniu Na+ i K+ do miejsc o wyższym stężeniu)
+	- jej zadaniem jest utrzymanie wysokiego stężenia jonów potasowych i niskiego stężęnia jonów sodowych
+	- w każdym cyklu działania pompy sodowo-potasowej na każde 3 wypompowane kationu sodu przypadają 2 wprowadzone kationy potasu
+	- za każdym razem zużywana jest jedna cząsteczka ATP, która jest hydrolizowana przez Na+,K + ATP-azę
+	- aby nastąpiła hydroliza ATP wymagana jest obecność kationów Mg2+
+	- ma duże znaczenie dla utrzymania stałej różnicy stężeń jonów Na+ i K+, zwłaszcza w komórkach pobudliwych - bierny transport zachodzący podczas spoczynku komórki jak i w czasie trwania potencjału czynnościowego prowadziłby do wyrównania stężeń jonów sodu i potasu wewnątrz i na zewnątrz komórki
+- budowa i fizjologia skóry
+	- naskórek
+		- część rozrodcza
+			- podstawna
+			- kolczysta
+		- część rogowaciejąca
+			- ziarnista
+			- jasna
+			- rogowa
+				- zbita
+				- złuszczająca się
+	- skóra właściwa
+	- tkanka podskórna
+	- [[notatki studia/Semestr II/Biochemia/budowa skóry]]
+	- fizjologia skóry
+- warstwy naskórka i ich budowa
+- skóra właściwa
+	- budowa i charakterystyka wszystkich warstw
+	- struktury w niej występujące
+		- unaczynienie
+		- unerwienie
+		- gruczoły
+- rodzaje starzenia się skóry
+	- endogenne
+		- starzenie chronologiczne
+			- fibroblasty produkujące kolagen i elastynę wykazują ograniczoną zdolność do podziałów - długość ich prawidłowego funkcjonowania jest ograniczona
+			- jest powiązane z wiekiem
+		- menopauzalne (hormonalne)
+			- uwarunkowane zmianami zachodzącymi w gospodarce hormonalnej organizmu
+			- zauważalne u kobiet, gdy zmniejsza się poziom estrogenów
+	- egzogenne
+		- działanie niekorzystnych czynników zewnętrznych - główna przyczyna powstawania w organizmie wolnych rodników
+		- promieniowanie UV
+		- zanieczyszczenia środowiska (spaliny samochodowe, smog)
+		- dym papierosowy
+		- alkohol
+	- miostarzenie
+		- powstawanie zmarszczek mimicznych w wyniku kurczenia się mięśni twarzy
+		- zanikanie zdolności fibroblastów do rozkurczania się, czego efektem są widoczne na skórze zmarszczki
+- patomechanizm starzenia się skóry związany z wiekiem, płaszcz wodno-lipidowy
+- przyczyny suchości skóry w okresie starzenia
+- liposomy - budowa, funkcje, mechanizm działania
+- czynniki warunkujące transport przez skórę
+- mechanizmy przenikania substancji przez skórę
+- biologiczna rola wody w organizmie; bilans wody a stan skóry
+- mechanizm działania gospodarki wodno-elektrolitowej organizmu
+- elektrolity biorące udział w fukncjonowaniu gospodarki wodno-elektrolitowej - wymienić i scharakteryzować
+- zaburzenia gospodarki wodno-elektrolitowej i ich rodzaje - krótka charakterystyka
+- wpływ czynników wewnątrzustrojowych na gospodarkę wodno-elektrolitową

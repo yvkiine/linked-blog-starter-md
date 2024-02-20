@@ -1,0 +1,10 @@
+- krew (hemopoeza, szpik, erytropoeza, granulopoeza, elemeny morfotyczne, trombopoeza, limfocyty, leukocyty, rozpoznanie krwinek i ich funkcji)
+- odpowiedź komórkowa, humoralna
+- klasy przeciwciał, budowa
+- stan zapalny (odp. nieswoista), krwinki identyfikują antygen
+- galt malt salt
+- alergia typu I, atopia
+- 5 objawów zapalenia
+- reakcje antygen-przeciwciało (rozpoznanie grupy krwi)
+- konflikt serologiczny
+- hapteny
